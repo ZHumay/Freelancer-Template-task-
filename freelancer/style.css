@@ -12,7 +12,7 @@ nav{
     height: 100px;
     line-height: 45px;
     padding: 0px 100px;
-   
+    position:fixed;
     background-color: red;
     display: flex;
     align-items: center;
